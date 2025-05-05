@@ -119,9 +119,6 @@ DVD-RENTAL_PROJECT/
 │
 └── README.md # Project documentation and guide
 ```
-
-## 📊 Query Categories / SQL files (exploration, analysis, advanced)
-
 ## 📊 Query Categories / SQL Files (Exploration, Analysis, Advanced)
 
 | File                    | Purpose & Focus                                             |
